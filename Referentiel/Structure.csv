@@ -1,0 +1,507 @@
+S10.G00.00,Envoi,S10.G00.00.001,Nom du logiciel utilisé
+S10.G00.00,Envoi,S10.G00.00.002,Nom de l'éditeur
+S10.G00.00,Envoi,S10.G00.00.003,Numéro de version du logiciel utilisé
+S10.G00.00,Envoi,S10.G00.00.004,Code de conformité en pré-contrôle
+S10.G00.00,Envoi,S10.G00.00.005,Code envoi du fichier d'essai ou réel
+S10.G00.00,Envoi,S10.G00.00.006,Numéro de version de la norme utilisée
+S10.G00.00,Envoi,S10.G00.00.007,Point de dépôt
+S10.G00.00,Envoi,S10.G00.00.008,Type d'envoi
+S10.G00.01,Emetteur,S10.G00.01.001,SIREN de l'émetteur de l'envoi
+S10.G00.01,Emetteur,S10.G00.01.002,NIC de l'émetteur de l'envoi
+S10.G00.01,Emetteur,S10.G00.01.003,Nom ou raison sociale de l'émetteur
+S10.G00.01,Emetteur,S10.G00.01.004,"Numéro, extension, nature et libellé de la voie"
+S10.G00.01,Emetteur,S10.G00.01.005,Code postal
+S10.G00.01,Emetteur,S10.G00.01.006,Localité
+S10.G00.01,Emetteur,S10.G00.01.007,Code pays
+S10.G00.01,Emetteur,S10.G00.01.008,Code de distribution à l'étranger
+S10.G00.01,Emetteur,S10.G00.01.009,Complément de la localisation de la construction
+S10.G00.01,Emetteur,S10.G00.01.010,"Service de distribution, complément de localisation de la voie"
+S10.G00.02,Contact émetteur,S10.G00.02.001,Code civilité
+S10.G00.02,Contact émetteur,S10.G00.02.002,Nom et prénom de la personne à contacter
+S10.G00.02,Contact émetteur,S10.G00.02.004,Adresse mail du contact émetteur
+S10.G00.02,Contact émetteur,S10.G00.02.005,Adresse téléphonique
+S10.G00.02,Contact émetteur,S10.G00.02.006,Adresse fax
+S20.G00.05,Déclaration,S20.G00.05.001,Nature de la déclaration
+S20.G00.05,Déclaration,S20.G00.05.002,Type de la déclaration
+S20.G00.05,Déclaration,S20.G00.05.003,Numéro de fraction de déclaration
+S20.G00.05,Déclaration,S20.G00.05.004,Numéro d'ordre de la déclaration
+S20.G00.05,Déclaration,S20.G00.05.005,Date du mois principal déclaré
+S20.G00.05,Déclaration,S20.G00.05.006,Identifiant de la déclaration annulée ou remplacée
+S20.G00.05,Déclaration,S20.G00.05.007,Date de constitution du fichier
+S20.G00.05,Déclaration,S20.G00.05.008,Champ de la déclaration
+S20.G00.05,Déclaration,S20.G00.05.009,Identifiant métier
+S20.G00.05,Déclaration,S20.G00.05.010,Devise de la déclaration
+S20.G00.05,Déclaration,S20.G00.05.011,Nature de l'événement déclencheur du signalement
+S20.G00.07,Contact chez le déclaré,S20.G00.07.001,Nom et prénom du contact
+S20.G00.07,Contact chez le déclaré,S20.G00.07.002,Adresse téléphonique
+S20.G00.07,Contact chez le déclaré,S20.G00.07.003,Adresse mail du contact
+S20.G00.07,Contact chez le déclaré,S20.G00.07.004,Type
+S20.G00.08,"Identifiant destinataire déclaration ""néant""",S20.G00.08.001,Code caisse
+S21.G00.06,Entreprise,S21.G00.06.001,SIREN
+S21.G00.06,Entreprise,S21.G00.06.002,NIC du siège
+S21.G00.06,Entreprise,S21.G00.06.003,Code APEN
+S21.G00.06,Entreprise,S21.G00.06.004,"Numéro, extension, nature et libellé de la voie"
+S21.G00.06,Entreprise,S21.G00.06.005,Code postal
+S21.G00.06,Entreprise,S21.G00.06.006,Localité
+S21.G00.06,Entreprise,S21.G00.06.007,Complément de la localisation de la construction
+S21.G00.06,Entreprise,S21.G00.06.008,"Service de distribution, complément de localisation de la voie"
+S21.G00.06,Entreprise,S21.G00.06.009,Effectif moyen de l'entreprise au 31 décembre
+S21.G00.06,Entreprise,S21.G00.06.010,Code pays
+S21.G00.06,Entreprise,S21.G00.06.011,Code de distribution à l'étranger
+S21.G00.06,Entreprise,S21.G00.06.012,Implantation de l'entreprise
+S21.G00.11,Etablissement,S21.G00.11.001,NIC
+S21.G00.11,Etablissement,S21.G00.11.002,Code APET
+S21.G00.11,Etablissement,S21.G00.11.003,"Numéro, extension, nature et libellé de la voie"
+S21.G00.11,Etablissement,S21.G00.11.004,Code postal
+S21.G00.11,Etablissement,S21.G00.11.005,Localité
+S21.G00.11,Etablissement,S21.G00.11.006,Complément de la localisation de la construction
+S21.G00.11,Etablissement,S21.G00.11.007,"Service de distribution, complément de localisation de la voie"
+S21.G00.11,Etablissement,S21.G00.11.008,Effectif de fin de période déclarée de l'établissement
+S21.G00.11,Etablissement,S21.G00.11.009,Type de rémunération soumise à contributions assurance chômage pour expatriés
+S21.G00.11,Etablissement,S21.G00.11.015,Code pays
+S21.G00.11,Etablissement,S21.G00.11.016,Code de distribution à l'étranger
+S21.G00.11,Etablissement,S21.G00.11.017,Nature juridique de l'employeur
+S21.G00.11,Etablissement,S21.G00.11.019,Date effet adhésion dispositif TESE/CEA
+S21.G00.11,Etablissement,S21.G00.11.020,Date effet sortie dispositif TESE/CEA
+S21.G00.15,Adhésion prévoyance,S21.G00.15.001,Référence du contrat de prévoyance
+S21.G00.15,Adhésion prévoyance,S21.G00.15.002,Code organisme de prévoyance
+S21.G00.15,Adhésion prévoyance,S21.G00.15.003,Code délégataire de gestion
+S21.G00.15,Adhésion prévoyance,S21.G00.15.004,Personnel couvert
+S21.G00.15,Adhésion prévoyance,S21.G00.15.005,Identifiant technique adhésion
+S21.G00.16,Changements destinataire adhésion prévoyance,S21.G00.16.001,Date de la modification
+S21.G00.16,Changements destinataire adhésion prévoyance,S21.G00.16.002,Ancien code organisme de prévoyance
+S21.G00.16,Changements destinataire adhésion prévoyance,S21.G00.16.003,Ancien code délégataire de gestion
+S21.G00.20,Versement organisme de protection sociale,S21.G00.20.001,Identifiant organisme de protection sociale
+S21.G00.20,Versement organisme de protection sociale,S21.G00.20.002,Entité d'affectation des opérations
+S21.G00.20,Versement organisme de protection sociale,S21.G00.20.003,BIC
+S21.G00.20,Versement organisme de protection sociale,S21.G00.20.004,IBAN
+S21.G00.20,Versement organisme de protection sociale,S21.G00.20.005,Montant du versement
+S21.G00.20,Versement organisme de protection sociale,S21.G00.20.006,Date de début de période de rattachement
+S21.G00.20,Versement organisme de protection sociale,S21.G00.20.007,Date de fin de période de rattachement
+S21.G00.20,Versement organisme de protection sociale,S21.G00.20.008,Code délégataire de gestion
+S21.G00.20,Versement organisme de protection sociale,S21.G00.20.010,Mode de paiement
+S21.G00.20,Versement organisme de protection sociale,S21.G00.20.011,Date de paiement
+S21.G00.20,Versement organisme de protection sociale,S21.G00.20.012,SIRET payeur
+S21.G00.22,Bordereau de cotisation due,S21.G00.22.001,Identifiant organisme de protection sociale
+S21.G00.22,Bordereau de cotisation due,S21.G00.22.002,Entité d'affectation des opérations
+S21.G00.22,Bordereau de cotisation due,S21.G00.22.003,Date de début de période de rattachement
+S21.G00.22,Bordereau de cotisation due,S21.G00.22.004,Date de fin de période de rattachement
+S21.G00.22,Bordereau de cotisation due,S21.G00.22.005,Montant total des cotisations
+S21.G00.23,Cotisation agrégée,S21.G00.23.001,Code de cotisation
+S21.G00.23,Cotisation agrégée,S21.G00.23.002,Qualifiant d'assiette
+S21.G00.23,Cotisation agrégée,S21.G00.23.003,Taux de cotisation
+S21.G00.23,Cotisation agrégée,S21.G00.23.004,Montant assiette
+S21.G00.23,Cotisation agrégée,S21.G00.23.005,Montant de cotisation
+S21.G00.23,Cotisation agrégée,S21.G00.23.006,Code INSEE commune
+S21.G00.30,Individu,S21.G00.30.001,Numéro d'inscription au répertoire
+S21.G00.30,Individu,S21.G00.30.002,Nom de famille
+S21.G00.30,Individu,S21.G00.30.003,Nom d'usage
+S21.G00.30,Individu,S21.G00.30.004,Prénoms
+S21.G00.30,Individu,S21.G00.30.005,Sexe
+S21.G00.30,Individu,S21.G00.30.006,Date de naissance
+S21.G00.30,Individu,S21.G00.30.007,Lieu de naissance
+S21.G00.30,Individu,S21.G00.30.008,"Numéro, extension, nature et libellé de la voie"
+S21.G00.30,Individu,S21.G00.30.009,Code postal
+S21.G00.30,Individu,S21.G00.30.010,Localité
+S21.G00.30,Individu,S21.G00.30.011,Code pays
+S21.G00.30,Individu,S21.G00.30.012,Code de distribution à l'étranger
+S21.G00.30,Individu,S21.G00.30.013,Codification UE
+S21.G00.30,Individu,S21.G00.30.014,Code département de naissance
+S21.G00.30,Individu,S21.G00.30.015,Code pays de naissance
+S21.G00.30,Individu,S21.G00.30.016,Complément de la localisation de la construction
+S21.G00.30,Individu,S21.G00.30.017,"Service de distribution, complément de localisation de la voie"
+S21.G00.30,Individu,S21.G00.30.018,Adresse mail
+S21.G00.30,Individu,S21.G00.30.019,Matricule de l'individu dans l'entreprise
+S21.G00.30,Individu,S21.G00.30.020,Numéro technique temporaire
+S21.G00.30,Individu,S21.G00.30.021,Nombre d'enfants à charge
+S21.G00.30,Individu,S21.G00.30.022,Statut à l'étranger au sens fiscal
+S21.G00.30,Individu,S21.G00.30.023,Cumul emploi retraite
+S21.G00.30,Individu,S21.G00.30.024,Niveau de formation le plus élevé obtenu par l'individu
+S21.G00.31,Changements individu,S21.G00.31.001,Date de la modification
+S21.G00.31,Changements individu,S21.G00.31.008,Ancien NIR
+S21.G00.31,Changements individu,S21.G00.31.009,Ancien nom de famille
+S21.G00.31,Changements individu,S21.G00.31.010,Anciens prénoms
+S21.G00.31,Changements individu,S21.G00.31.011,Ancienne date de naissance
+S21.G00.34,Pénibilité,S21.G00.34.001,Facteur d'exposition
+S21.G00.34,Pénibilité,S21.G00.34.002,Numéro du contrat
+S21.G00.34,Pénibilité,S21.G00.34.003,Année de rattachement
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.001,Date de début du contrat
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.002,Statut du salarié (conventionnel)
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.003,Code statut catégoriel retraite complémentaire obligatoire
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.004,Code profession et catégorie socioprofessionnelle (PCS-ESE)
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.005,Code complément PCS-ESE
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.006,Libellé de l'emploi
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.007,Nature du contrat
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.008,Dispositif de politique publique et conventionnel
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.009,Numéro du contrat
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.010,Date de fin prévisionnelle du contrat
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.011,Unité de mesure de la quotité de travail
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.012,Quotité de travail de référence de l'entreprise pour la catégorie de salarié
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.013,Quotité de travail du contrat
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.014,Modalité d'exercice du temps de travail
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.016,Complément de base au régime obligatoire
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.017,Code convention collective applicable
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.018,Code régime de base risque maladie
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.019,Identifiant du lieu de travail
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.020,Code régime de base risque vieillesse
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.021,Motif de recours
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.022,Code caisse professionnelle de congés payés
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.023,Taux de déduction forfaitaire spécifique pour frais professionnels
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.024,Travailleur à l'étranger au sens du code de la sécurité sociale
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.025,Motif d'exclusion DSN
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.026,Statut d'emploi du salarié
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.027,Code affectation assurance chômage
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.028,Numéro interne employeur public
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.029,Type de gestion de l'assurance chômage
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.030,Date d'adhésion
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.031,Date de dénonciation
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.032,Date d'effet de la convention de gestion
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.033,Numéro de convention de gestion
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.035,Code délégataire du risque maladie
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.036,Code emplois multiples
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.037,Code employeurs multiples
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.038,Code métier
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.039,Code régime de base risque accident du travail
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.040,Code risque accident du travail
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.041,Positionnement dans la convention collective
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.042,Code statut catégoriel APECITA
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.043,Taux de cotisation accident du travail
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.044,Salarié à temps partiel cotisant à temps plein
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.045,Rémunération au pourboire
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.046,Identifiant de l'établissement utilisateur
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.048,"Numéro de label ""Prestataire de services du spectacle vivant"""
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.049,Numéro de licence entrepreneur spectacle
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.050,Numéro objet spectacle
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.051,Statut organisateur spectacle
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.052,[FP] Code complément PCS-ESE pour la fonction publique d'Etat (NNE)
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.053,[FP] Nature du poste
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.054,[FP] Quotité de travail de référence de l'entreprise pour la catégorie de salarié dans l’hypothèse d’un poste à temps complet
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.055,Taux de travail à temps partiel
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.056,Code catégorie de service
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.057,[FP] Indice brut
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.058,[FP] Indice majoré
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.059,[FP] Nouvelle bonification indiciaire (NBI)
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.060,[FP] Indice brut d'origine
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.061,[FP] Indice brut de cotisation dans un emploi supérieur (article 15)
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.062,[FP] Ancien employeur public
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.063,[FP] Indice brut d’origine ancien salarié employeur public
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.064,[FP] Indice brut d’origine sapeur-pompier professionnel (SPP)
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.065,[FP] Maintien du traitement d'origine d'un contractuel titulaire
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.066,[FP] Type de détachement
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.067,Genre de navigation
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.068,Taux de service actif
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.069,Niveau de Rémunération
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.070,Echelon
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.071,Coefficient hiérarchique
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.072,Statut BOETH
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.073,Complément de dispositif de politique publique
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.074,Cas de mise à disposition externe d'un individu de l'établissement
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.075,Catégorie de classement finale
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.076,Identifiant du contrat d'engagement maritime
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.077,Collège (CNIEG)
+S21.G00.40,"Contrat (contrat de travail, convention, mandat)",S21.G00.40.078,Forme d'aménagement du temps de travail dans le cadre de l'activité partielle
+S21.G00.41,Changements contrats,S21.G00.41.001,Date de la modification
+S21.G00.41,Changements contrats,S21.G00.41.002,Ancien statut du salarié (conventionnel)
+S21.G00.41,Changements contrats,S21.G00.41.003,Ancien code statut catégoriel retraite complémentaire obligatoire
+S21.G00.41,Changements contrats,S21.G00.41.004,Ancienne nature du contrat
+S21.G00.41,Changements contrats,S21.G00.41.005,Ancien dispositif de politique publique et conventionnel
+S21.G00.41,Changements contrats,S21.G00.41.006,Ancienne unité de mesure de la quotité de travail
+S21.G00.41,Changements contrats,S21.G00.41.007,Ancienne quotité de travail du contrat
+S21.G00.41,Changements contrats,S21.G00.41.008,Ancienne modalité d'exercice du temps de travail
+S21.G00.41,Changements contrats,S21.G00.41.010,Ancien complément de base au régime obligatoire
+S21.G00.41,Changements contrats,S21.G00.41.011,Ancien code convention collective applicable
+S21.G00.41,Changements contrats,S21.G00.41.012,SIRET ancien établissement d'affectation
+S21.G00.41,Changements contrats,S21.G00.41.013,Ancien identifiant du lieu de travail
+S21.G00.41,Changements contrats,S21.G00.41.014,Ancien numéro du contrat
+S21.G00.41,Changements contrats,S21.G00.41.016,Ancien motif de recours
+S21.G00.41,Changements contrats,S21.G00.41.017,Ancien taux de déduction forfaitaire spécifique pour frais professionnels
+S21.G00.41,Changements contrats,S21.G00.41.018,Ancien travailleur à l'étranger au sens du code de la sécurité sociale
+S21.G00.41,Changements contrats,S21.G00.41.019,Ancien code profession et catégorie socioprofessionnelle (PCS-ESE)
+S21.G00.41,Changements contrats,S21.G00.41.020,Ancien code complément PCS-ESE
+S21.G00.41,Changements contrats,S21.G00.41.021,Ancienne date de début de contrat
+S21.G00.41,Changements contrats,S21.G00.41.022,Ancienne quotité de travail de référence de l'entreprise pour la catégorie de salarié
+S21.G00.41,Changements contrats,S21.G00.41.023,Ancienne code caisse professionnelle de congés payés
+S21.G00.41,Changements contrats,S21.G00.41.024,Ancien code risque accident de travail
+S21.G00.41,Changements contrats,S21.G00.41.025,Ancien code statut catégoriel APECITA
+S21.G00.41,Changements contrats,S21.G00.41.027,Ancien salarié à temps partiel cotisant à temps plein
+S21.G00.41,Changements contrats,S21.G00.41.028,Profondeur de recalcul de la paie
+S21.G00.41,Changements contrats,S21.G00.41.029,[FP] Ancien Code complément PCS-ESE pour la fonction publique d'Etat (NNE)
+S21.G00.41,Changements contrats,S21.G00.41.030,[FP] Ancienne Nature du poste
+S21.G00.41,Changements contrats,S21.G00.41.031,[FP] Ancienne Quotité de travail de référence de l'entreprise pour la catégorie de salarié dans l’hypothèse d’un poste à temps complet
+S21.G00.41,Changements contrats,S21.G00.41.032,Ancien Taux de travail à temps partiel
+S21.G00.41,Changements contrats,S21.G00.41.033,Ancien Code catégorie de service
+S21.G00.41,Changements contrats,S21.G00.41.034,[FP] Ancien Indice brut
+S21.G00.41,Changements contrats,S21.G00.41.035,[FP] Ancien Indice majoré
+S21.G00.41,Changements contrats,S21.G00.41.036,[FP] Ancienne Nouvelle bonification indiciaire (NBI)
+S21.G00.41,Changements contrats,S21.G00.41.037,[FP] Ancien indice brut d'origine
+S21.G00.41,Changements contrats,S21.G00.41.038,P] Ancien indice brut de cotisation dans un emploi supérieur (article 15)
+S21.G00.41,Changements contrats,S21.G00.41.039,[FP] Ancien ancien employeur public
+S21.G00.41,Changements contrats,S21.G00.41.040,[FP] Ancien Indice brut d’origine ancien salarié employeur public
+S21.G00.41,Changements contrats,S21.G00.41.041,[FP] Ancien indice brut d’origine sapeur-pompier professionnel (SPP)
+S21.G00.41,Changements contrats,S21.G00.41.042,[FP] Ancien maintien du traitement d'origine d'un contractuel titulaire
+S21.G00.41,Changements contrats,S21.G00.41.043,Ancien taux de service actif
+S21.G00.41,Changements contrats,S21.G00.41.044,Ancien niveau de rémunération
+S21.G00.41,Changements contrats,S21.G00.41.045,Ancien échelon
+S21.G00.41,Changements contrats,S21.G00.41.046,Ancien coefficient hiérarchique
+S21.G00.41,Changements contrats,S21.G00.41.047,Ancien genre de navigation
+S21.G00.41,Changements contrats,S21.G00.41.048,Ancien statut BOETH
+S21.G00.41,Changements contrats,S21.G00.41.049,Ancien complément de dispositif de politique publique
+S21.G00.41,Changements contrats,S21.G00.41.050,Ancien cas de mise à disposition externe d'un individu de l'établissement
+S21.G00.41,Changements contrats,S21.G00.41.051,Ancienne catégorie de classement finale
+S21.G00.41,Changements contrats,S21.G00.41.052,Ancien code régime de base risque maladie
+S21.G00.41,Changements contrats,S21.G00.41.053,Ancien code régime de base risque vieillesse
+S21.G00.41,Changements contrats,S21.G00.41.054,Ancien identifiant du contrat d'engagement maritime
+S21.G00.41,Changements contrats,S21.G00.41.055,Ancien collège (CNIEG)
+S21.G00.41,Changements contrats,S21.G00.41.056,Ancienne forme d'aménagement du temps de travail dans le cadre de l'activité partielle
+S21.G00.41,Changements contrats,S21.G00.41.057,[FP] Ancien type de détachement
+S21.G00.44,Assujetissement fiscal,S21.G00.44.001,Code taxe
+S21.G00.44,Assujetissement fiscal,S21.G00.44.002,Montant
+S21.G00.44,Assujetissement fiscal,S21.G00.44.003,Millésime de rattachement
+S21.G00.50,Versement individu,S21.G00.50.001,Date de versement
+S21.G00.50,Versement individu,S21.G00.50.002,Rémunération nette fiscale
+S21.G00.50,Versement individu,S21.G00.50.003,Numéro de versement
+S21.G00.50,Versement individu,S21.G00.50.004,Montant net versé
+S21.G00.50,Versement individu,S21.G00.50.006,Taux de prélèvement à la source
+S21.G00.50,Versement individu,S21.G00.50.007,Type du taux de prélèvement à la source
+S21.G00.50,Versement individu,S21.G00.50.008,Identifiant du taux de prélèvement à la source
+S21.G00.50,Versement individu,S21.G00.50.009,Montant de prélèvement à la source
+S21.G00.50,Versement individu,S21.G00.50.011,Montant de la part non imposable du revenu
+S21.G00.50,Versement individu,S21.G00.50.012,Montant de l’abattement sur la base fiscale (non déduit de la rémunération nette fiscale)
+S21.G00.50,Versement individu,S21.G00.50.013,Montant soumis au PAS
+S21.G00.51,Rémunération,S21.G00.51.001,Date de début de période de paie
+S21.G00.51,Rémunération,S21.G00.51.002,Date de fin de période de paie
+S21.G00.51,Rémunération,S21.G00.51.010,Numéro du contrat
+S21.G00.51,Rémunération,S21.G00.51.011,Type
+S21.G00.51,Rémunération,S21.G00.51.012,Nombre d'heures
+S21.G00.51,Rémunération,S21.G00.51.013,Montant
+S21.G00.51,Rémunération,S21.G00.51.014,[FP] Taux de rémunération de la position statutaire
+S21.G00.51,Rémunération,S21.G00.51.015,Taux de conduite centrale nucléaire
+S21.G00.51,Rémunération,S21.G00.51.016,Taux de majoration résidentielle
+S21.G00.52,"Prime, gratification & indemnité",S21.G00.52.001,Type
+S21.G00.52,"Prime, gratification & indemnité",S21.G00.52.002,Montant
+S21.G00.52,"Prime, gratification & indemnité",S21.G00.52.003,Date de début de la période de rattachement
+S21.G00.52,"Prime, gratification & indemnité",S21.G00.52.004,Date de fin de la période de rattachement
+S21.G00.52,"Prime, gratification & indemnité",S21.G00.52.006,Numéro du contrat
+S21.G00.52,"Prime, gratification & indemnité",S21.G00.52.007,Date de versement d'origine
+S21.G00.53,Activité,S21.G00.53.001,Type
+S21.G00.53,Activité,S21.G00.53.002,Mesure
+S21.G00.53,Activité,S21.G00.53.003,Unité de mesure
+S21.G00.54,Autre élément de revenu brut,S21.G00.54.001,Type
+S21.G00.54,Autre élément de revenu brut,S21.G00.54.002,Montant
+S21.G00.54,Autre élément de revenu brut,S21.G00.54.003,Date de début de période de rattachement
+S21.G00.54,Autre élément de revenu brut,S21.G00.54.004,Date de fin de période de rattachement
+S21.G00.55,Composant de versement,S21.G00.55.001,Montant versé
+S21.G00.55,Composant de versement,S21.G00.55.002,Type de population
+S21.G00.55,Composant de versement,S21.G00.55.003,Code d'affectation
+S21.G00.55,Composant de versement,S21.G00.55.004,Période d'affectation
+S21.G00.56,Régularisation de prélèvement à la source,S21.G00.56.001,Mois de l'erreur
+S21.G00.56,Régularisation de prélèvement à la source,S21.G00.56.002,Type d'erreur
+S21.G00.56,Régularisation de prélèvement à la source,S21.G00.56.003,Régularisation de la rémunération nette fiscale
+S21.G00.56,Régularisation de prélèvement à la source,S21.G00.56.004,Rémunération nette fiscale déclarée le mois de l'erreur
+S21.G00.56,Régularisation de prélèvement à la source,S21.G00.56.005,Régularisation du taux de prélèvement à la source
+S21.G00.56,Régularisation de prélèvement à la source,S21.G00.56.006,Taux déclaré le mois de l'erreur
+S21.G00.56,Régularisation de prélèvement à la source,S21.G00.56.007,Montant de la régularisation du prélèvement à la source
+S21.G00.56,Régularisation de prélèvement à la source,S21.G00.56.008,Régularisation du montant de la part non imposable du revenu
+S21.G00.56,Régularisation de prélèvement à la source,S21.G00.56.009,Régularisation du montant de l’abattement sur la base fiscale (non déduit de la rémunération nette fiscale)
+S21.G00.56,Régularisation de prélèvement à la source,S21.G00.56.010,Régularisation du montant soumis au PAS
+S21.G00.60,Arrêt de travail,S21.G00.60.001,Motif de l'arrêt
+S21.G00.60,Arrêt de travail,S21.G00.60.002,Date du  dernier jour travaillé
+S21.G00.60,Arrêt de travail,S21.G00.60.003,Date de fin prévisionnelle
+S21.G00.60,Arrêt de travail,S21.G00.60.004,Subrogation
+S21.G00.60,Arrêt de travail,S21.G00.60.005,Date de début de subrogation
+S21.G00.60,Arrêt de travail,S21.G00.60.006,Date de fin de subrogation
+S21.G00.60,Arrêt de travail,S21.G00.60.007,IBAN
+S21.G00.60,Arrêt de travail,S21.G00.60.008,BIC
+S21.G00.60,Arrêt de travail,S21.G00.60.010,Date de la reprise
+S21.G00.60,Arrêt de travail,S21.G00.60.011,Motif de la reprise
+S21.G00.60,Arrêt de travail,S21.G00.60.012,Date de l'accident ou de la première constatation
+S21.G00.60,Arrêt de travail,S21.G00.60.600,SIRET centralisateur
+S21.G00.62,Fin du contrat,S21.G00.62.001,Date de fin du contrat
+S21.G00.62,Fin du contrat,S21.G00.62.002,Motif de la rupture du contrat
+S21.G00.62,Fin du contrat,S21.G00.62.003,Date de notification de la rupture de contrat
+S21.G00.62,Fin du contrat,S21.G00.62.004,Date de signature de la convention de rupture
+S21.G00.62,Fin du contrat,S21.G00.62.005,Date d'engagement de la procédure de licenciement
+S21.G00.62,Fin du contrat,S21.G00.62.006,Dernier jour travaillé et payé au salaire habituel
+S21.G00.62,Fin du contrat,S21.G00.62.008,Transaction en cours
+S21.G00.62,Fin du contrat,S21.G00.62.011,Nombre de mois de préavis utilisés dans le cadre du calcul CSP
+S21.G00.62,Fin du contrat,S21.G00.62.013,Montant de l'indemnité de préavis qui aurait été versé
+S21.G00.62,Fin du contrat,S21.G00.62.014,Statut particulier du salarié
+S21.G00.62,Fin du contrat,S21.G00.62.016,Maintien de l'affiliation du salarié au contrat collectif
+S21.G00.62,Fin du contrat,S21.G00.62.017,Modalité de déclaration de la fin du contrat d'usage
+S21.G00.62,Fin du contrat,S21.G00.62.018,Nombre de mois de préavis utilisés dans le cadre du calcul PAP
+S21.G00.62,Fin du contrat,S21.G00.62.019,Solde de congés acquis et non pris (ENIM)
+S21.G00.62,Fin du contrat,S21.G00.62.020,Mois de la DSN mensuelle portant les derniers éléments déclarés dans le FCTU
+S21.G00.65,Autre suspension de l'exécution du contrat,S21.G00.65.001,Motif de suspension
+S21.G00.65,Autre suspension de l'exécution du contrat,S21.G00.65.002,Date de début de suspension
+S21.G00.65,Autre suspension de l'exécution du contrat,S21.G00.65.003,Date de fin de suspension
+S21.G00.65,Autre suspension de l'exécution du contrat,S21.G00.65.004,[FP] Position de détachement
+S21.G00.66,Temps partiel thérapeutique,S21.G00.66.001,Date de début
+S21.G00.66,Temps partiel thérapeutique,S21.G00.66.002,Date de fin
+S21.G00.66,Temps partiel thérapeutique,S21.G00.66.003,Montant
+S21.G00.70,Affiliation prévoyance,S21.G00.70.004,Code option retenue par le salarié
+S21.G00.70,Affiliation prévoyance,S21.G00.70.005,Code population de rattachement
+S21.G00.70,Affiliation prévoyance,S21.G00.70.007,Nombre d'enfants à charge
+S21.G00.70,Affiliation prévoyance,S21.G00.70.008,"Nombre d'adultes ayants-droit (conjoint, concubin, …)"
+S21.G00.70,Affiliation prévoyance,S21.G00.70.009,Nombre d'ayants-droit
+S21.G00.70,Affiliation prévoyance,S21.G00.70.010,"Nombre d'ayants-droit autres (ascendants, collatéraux, …)"
+S21.G00.70,Affiliation prévoyance,S21.G00.70.011,Nombre d'enfants ayants-droit
+S21.G00.70,Affiliation prévoyance,S21.G00.70.012,Identifiant technique affiliation
+S21.G00.70,Affiliation prévoyance,S21.G00.70.013,Identifiant technique adhésion
+S21.G00.70,Affiliation prévoyance,S21.G00.70.014,Date de début de l'affiliation
+S21.G00.70,Affiliation prévoyance,S21.G00.70.015,Date de fin de l'affiliation
+S21.G00.71,Retraite complémentaire,S21.G00.71.002,Code régime retraite complémentaire
+S21.G00.71,Retraite complémentaire,S21.G00.71.003,Référence adhésion employeur
+S21.G00.72,Affiliation à tort,S21.G00.72.001,Code régime Retraite Complémentaire déclaré à tort
+S21.G00.73,Ayant-droit,S21.G00.73.001,Régime local Alsace-Moselle
+S21.G00.73,Ayant-droit,S21.G00.73.002,Code option
+S21.G00.73,Ayant-droit,S21.G00.73.003,Type
+S21.G00.73,Ayant-droit,S21.G00.73.004,Date de début de rattachement à l'ouvrant-droit
+S21.G00.73,Ayant-droit,S21.G00.73.005,Date de naissance
+S21.G00.73,Ayant-droit,S21.G00.73.006,Nom de famille
+S21.G00.73,Ayant-droit,S21.G00.73.007,Numéro d'inscription au répertoire
+S21.G00.73,Ayant-droit,S21.G00.73.008,NIR ouvrant-droit régime de base maladie
+S21.G00.73,Ayant-droit,S21.G00.73.009,Prénoms
+S21.G00.73,Ayant-droit,S21.G00.73.010,Code organismee d'affiliation à l'assurance maladie
+S21.G00.73,Ayant-droit,S21.G00.73.011,Date de fin de rattachement à l'ouvrant-droit
+S21.G00.78,Base assujettie,S21.G00.78.001,Code de base assujettie
+S21.G00.78,Base assujettie,S21.G00.78.002,Date de début de période de rattachement
+S21.G00.78,Base assujettie,S21.G00.78.003,Date de fin de période de rattachement
+S21.G00.78,Base assujettie,S21.G00.78.004,Montant
+S21.G00.78,Base assujettie,S21.G00.78.005,Identifiant technique affiliation
+S21.G00.78,Base assujettie,S21.G00.78.006,Numéro de contrat
+S21.G00.79,Composant de base assujettie,S21.G00.79.001,Type de composant de base assujettie
+S21.G00.79,Composant de base assujettie,S21.G00.79.004,Montant de composant de base assujettie
+S21.G00.81,Cotisation individuelle,S21.G00.81.001,Code de cotisation
+S21.G00.81,Cotisation individuelle,S21.G00.81.002,Identifiant organisme de protection sociale
+S21.G00.81,Cotisation individuelle,S21.G00.81.003,Montant d'assiette
+S21.G00.81,Cotisation individuelle,S21.G00.81.004,Montant de cotisation
+S21.G00.81,Cotisation individuelle,S21.G00.81.005,Code INSEE commune
+S21.G00.82,Cotisation établissement,S21.G00.82.001,Valeur
+S21.G00.82,Cotisation établissement,S21.G00.82.002,Code de cotisation
+S21.G00.82,Cotisation établissement,S21.G00.82.003,Date de début de période de rattachement
+S21.G00.82,Cotisation établissement,S21.G00.82.004,Date de fin de période de rattachement
+S21.G00.82,Cotisation établissement,S21.G00.82.005,Référence réglementaire ou contractuelle
+S21.G00.83,Période affiliation à tort régime retraite,S21.G00.83.001,10:16Date de début de période déclarée à tort
+S21.G00.83,Période affiliation à tort régime retraite,S21.G00.83.002,Date de fin de période déclarée à tort
+S21.G00.84,Base assujettie déclarée à tort régime retraite complémentaire,S21.G00.84.001,Code de base assujettie déclarée à tort
+S21.G00.84,Base assujettie déclarée à tort régime retraite complémentaire,S21.G00.84.002,Date de début de période de rattachement de la base déclarée à tort
+S21.G00.84,Base assujettie déclarée à tort régime retraite complémentaire,S21.G00.84.003,Date de fin de période de rattachement de la base déclarée à tort
+S21.G00.84,Base assujettie déclarée à tort régime retraite complémentaire,S21.G00.84.004,Montant déclaré à tort
+S21.G00.84,Base assujettie déclarée à tort régime retraite complémentaire,S21.G00.84.005,Numéro du contrat rattaché à la base assujettie déclarée à tort
+S21.G00.85,Lieu de travail ou établissement utilisateur,S21.G00.85.001,Identifiant du lieu de travail ou de l'établissement utilisateur
+S21.G00.85,Lieu de travail ou établissement utilisateur,S21.G00.85.002,Code APET
+S21.G00.85,Lieu de travail ou établissement utilisateur,S21.G00.85.003,"Numéro, extension, nature et libellé de la voie"
+S21.G00.85,Lieu de travail ou établissement utilisateur,S21.G00.85.004,Code postal
+S21.G00.85,Lieu de travail ou établissement utilisateur,S21.G00.85.005,Localité
+S21.G00.85,Lieu de travail ou établissement utilisateur,S21.G00.85.006,Code pays
+S21.G00.85,Lieu de travail ou établissement utilisateur,S21.G00.85.007,Code de distribution à l'étranger
+S21.G00.85,Lieu de travail ou établissement utilisateur,S21.G00.85.008,Complément de la localisation de la construction
+S21.G00.85,Lieu de travail ou établissement utilisateur,S21.G00.85.009,"Service de distribution, complément de localisation de la voie"
+S21.G00.85,Lieu de travail ou établissement utilisateur,S21.G00.85.010,Nature juridique
+S21.G00.85,Lieu de travail ou établissement utilisateur,S21.G00.85.011,Code INSEE commune
+S21.G00.86,Ancienneté,S21.G00.86.001,Type
+S21.G00.86,Ancienneté,S21.G00.86.002,Unité de mesure
+S21.G00.86,Ancienneté,S21.G00.86.003,Valeur
+S21.G00.86,Ancienneté,S21.G00.86.005,Numéro du contrat
+S21.G00.95,Base assujettie déclarée à tort régime de base maladie ou vieillesse,S21.G00.95.001,Code de base assujettie déclarée à tort
+S21.G00.95,Base assujettie déclarée à tort régime de base maladie ou vieillesse,S21.G00.95.002,Date de début de période de rattachement de la base déclarée à tort
+S21.G00.95,Base assujettie déclarée à tort régime de base maladie ou vieillesse,S21.G00.95.003,Date de fin de période de rattachement de la base déclarée à tort
+S21.G00.95,Base assujettie déclarée à tort régime de base maladie ou vieillesse,S21.G00.95.004,Montant déclaré à tort
+S21.G00.95,Base assujettie déclarée à tort régime de base maladie ou vieillesse,S21.G00.95.005,Numéro du contrat rattaché à la base assujettie déclarée à tort
+S89.G00.32,Bénéficiaire des honoraires,S89.G00.32.001,Profession ou qualité
+S89.G00.32,Bénéficiaire des honoraires,S89.G00.32.002,Nom du bénéficiaire des honoraires
+S89.G00.32,Bénéficiaire des honoraires,S89.G00.32.003,Prénom du bénéficiaire des honoraires
+S89.G00.32,Bénéficiaire des honoraires,S89.G00.32.004,SIREN du bénéficiaire des honoraires
+S89.G00.32,Bénéficiaire des honoraires,S89.G00.32.005,NIC du bénéficiaire des honoraires
+S89.G00.32,Bénéficiaire des honoraires,S89.G00.32.006,Raison sociale du bénéficiaire des honoraires
+S89.G00.32,Bénéficiaire des honoraires,S89.G00.32.007,Complément de localisation de la construction
+S89.G00.32,Bénéficiaire des honoraires,S89.G00.32.008,"Numéro, extension, nature et libellé de la voie"
+S89.G00.32,Bénéficiaire des honoraires,S89.G00.32.009,Code INSEE de la commune
+S89.G00.32,Bénéficiaire des honoraires,S89.G00.32.010,"Service de distribution, complément de localisation de la voie"
+S89.G00.32,Bénéficiaire des honoraires,S89.G00.32.011,Code postal
+S89.G00.32,Bénéficiaire des honoraires,S89.G00.32.012,Localité
+S89.G00.32,Bénéficiaire des honoraires,S89.G00.32.013,Code pays
+S89.G00.32,Bénéficiaire des honoraires,S89.G00.32.014,Code de distribution à l'étranger
+S89.G00.32,Bénéficiaire des honoraires,S89.G00.32.015,Code taux réduit ou dispense de retenue à la source
+S89.G00.32,Bénéficiaire des honoraires,S89.G00.32.016,Montant TVA droits d'auteurs
+S89.G00.32,Bénéficiaire des honoraires,S89.G00.32.017,Millésime de rattachement
+S90.G00.33,Avantages en nature,S90.G00.33.001,Code type avantage en nature
+S90.G00.33,Avantages en nature,S90.G00.33.002,Montant avantage en nature
+S89.G00.35,Prise en charge des indemnités,S89.G00.35.001,Code modalité de prise en charges des indemnités
+S89.G00.35,Prise en charge des indemnités,S89.G00.35.002,Montant de l'indemnité
+S89.G00.43,Rémunérations,S89.G00.43.001,Code type de la rémunération
+S89.G00.43,Rémunérations,S89.G00.43.002,Montant de la rémunération
+S89.G00.87,Actions gratuites,S89.G00.87.001,Code contexte
+S89.G00.87,Actions gratuites,S89.G00.87.002,Nombre d'actions
+S89.G00.87,Actions gratuites,S89.G00.87.003,Valeur unitaire de l'action
+S89.G00.87,Actions gratuites,S89.G00.87.004,Fraction du gain d'acquisition de source française
+S89.G00.87,Actions gratuites,S89.G00.87.005,Date d'attribution
+S89.G00.87,Actions gratuites,S89.G00.87.006,Date d'acquisition définitive
+S89.G00.87,Actions gratuites,S89.G00.87.007,Numéro d'inscription au répertoire
+S89.G00.87,Actions gratuites,S89.G00.87.008,Numéro technique temporaire
+S89.G00.88,Options sur titres (stock options),S89.G00.88.001,Code contexte
+S89.G00.88,Options sur titres (stock options),S89.G00.88.002,Nombre d'options
+S89.G00.88,Options sur titres (stock options),S89.G00.88.003,Valeur unitaire de l'action
+S89.G00.88,Options sur titres (stock options),S89.G00.88.004,Prix de souscription de l'action
+S89.G00.88,Options sur titres (stock options),S89.G00.88.005,Fraction du gain de levée d'option de source française
+S89.G00.88,Options sur titres (stock options),S89.G00.88.006,Date d'attribution
+S89.G00.88,Options sur titres (stock options),S89.G00.88.007,Date de levée de l'option
+S89.G00.88,Options sur titres (stock options),S89.G00.88.008,Numéro d'inscription au répertoire
+S89.G00.88,Options sur titres (stock options),S89.G00.88.009,Numéro technique temporaire
+S89.G00.89,Bons de souscription de parts de créateur d'entreprise (BSPCE),S89.G00.89.001,Nombre de titres
+S89.G00.89,Bons de souscription de parts de créateur d'entreprise (BSPCE),S89.G00.89.002,Prix d'acquisition des titres
+S89.G00.89,Bons de souscription de parts de créateur d'entreprise (BSPCE),S89.G00.89.003,Valeur unitaire des titres au jour de l'exercice des bons
+S89.G00.89,Bons de souscription de parts de créateur d'entreprise (BSPCE),S89.G00.89.004,Fraction du gain de source française
+S89.G00.89,Bons de souscription de parts de créateur d'entreprise (BSPCE),S89.G00.89.005,Date d'acquisition des titres
+S89.G00.89,Bons de souscription de parts de créateur d'entreprise (BSPCE),S89.G00.89.006,Durée d'exercice de l'activité du bénéficiaire dans l'entreprise
+S89.G00.89,Bons de souscription de parts de créateur d'entreprise (BSPCE),S89.G00.89.007,Numéro d'inscription au répertoire
+S89.G00.89,Bons de souscription de parts de créateur d'entreprise (BSPCE),S89.G00.89.008,Numéro technique temporaire
+S89.G00.91,Individu non salarié,S89.G00.91.001,Numéro d'inscription au répertoire
+S89.G00.91,Individu non salarié,S89.G00.91.002,Nom de famille
+S89.G00.91,Individu non salarié,S89.G00.91.003,Nom d'usage
+S89.G00.91,Individu non salarié,S89.G00.91.004,Prénoms
+S89.G00.91,Individu non salarié,S89.G00.91.005,Sexe
+S89.G00.91,Individu non salarié,S89.G00.91.006,Date de naissance
+S89.G00.91,Individu non salarié,S89.G00.91.007,Lieu de naissance
+S89.G00.91,Individu non salarié,S89.G00.91.008,"Numéro, extension, nature et libellé de la voie"
+S89.G00.91,Individu non salarié,S89.G00.91.009,Code postal
+S89.G00.91,Individu non salarié,S89.G00.91.010,Localité
+S89.G00.91,Individu non salarié,S89.G00.91.011,Code pays
+S89.G00.91,Individu non salarié,S89.G00.91.012,Code de distribution à l'étranger
+S89.G00.91,Individu non salarié,S89.G00.91.013,Complément de la localisation de la construction
+S89.G00.91,Individu non salarié,S89.G00.91.014,"Service de distribution, complément de localisation de la voie"
+S89.G00.91,Individu non salarié,S89.G00.91.015,Adresse mail
+S89.G00.91,Individu non salarié,S89.G00.91.016,Matricule de l'individu dans l'entreprise
+S89.G00.91,Individu non salarié,S89.G00.91.017,Statut du salarié (conventionnel)
+S89.G00.91,Individu non salarié,S89.G00.91.018,Code statut catégoriel retraite complémentaire obligatoire
+S89.G00.91,Individu non salarié,S89.G00.91.019,Code département de naissance
+S89.G00.91,Individu non salarié,S89.G00.91.020,Code pays de naissance
+S89.G00.91,Individu non salarié,S89.G00.91.021,Numéro technique temporaire
+S89.G00.92,Bases spécifiques individu non salarié,S89.G00.92.001,Type
+S89.G00.92,Bases spécifiques individu non salarié,S89.G00.92.002,Code de base spécifique
+S89.G00.92,Bases spécifiques individu non salarié,S89.G00.92.003,Montant
+S89.G00.92,Bases spécifiques individu non salarié,S89.G00.92.004,Date de début de période de rattachement
+S89.G00.92,Bases spécifiques individu non salarié,S89.G00.92.005,Date de fin de période de rattachement
+S89.G00.92,Bases spécifiques individu non salarié,S89.G00.92.006,Montant net fiscal du revenu versé
+S89.G00.92,Bases spécifiques individu non salarié,S89.G00.92.007,Taux de prélèvement à la source
+S89.G00.92,Bases spécifiques individu non salarié,S89.G00.92.008,Type du taux de prélèvement à la source
+S89.G00.92,Bases spécifiques individu non salarié,S89.G00.92.009,Identifiant du taux de prélèvement à la source
+S89.G00.92,Bases spécifiques individu non salarié,S89.G00.92.010,Montant de prélèvement à la source
+S89.G00.92,Bases spécifiques individu non salarié,S89.G00.92.011,Date de versement
+S89.G00.92,Bases spécifiques individu non salarié,S89.G00.92.012,Montant de la part non imposable du revenu
+S89.G00.92,Bases spécifiques individu non salarié,S89.G00.92.013,Montant soumis au PAS
+S89.G00.92,Bases spécifiques individu non salarié,S89.G00.92.014,Montant de l’abattement sur la base fiscale (non déduit du montant net fiscal du revenu versé)
+S89.G00.93,Régularisation de prélèvement à la source,S89.G00.93.001,Mois de l'erreur
+S89.G00.93,Régularisation de prélèvement à la source,S89.G00.93.002,Type d'erreur
+S89.G00.93,Régularisation de prélèvement à la source,S89.G00.93.003,Régularisation du montant net fiscal du revenu versé
+S89.G00.93,Régularisation de prélèvement à la source,S89.G00.93.004,Montant net fiscal du revenu versé du mois de l’erreur
+S89.G00.93,Régularisation de prélèvement à la source,S89.G00.93.005,Régularisation du taux de prélèvement à la source
+S89.G00.93,Régularisation de prélèvement à la source,S89.G00.93.006,Taux déclaré le mois de l'erreur
+S89.G00.93,Régularisation de prélèvement à la source,S89.G00.93.007,Montant de la régularisation du prélèvement à la source
+S89.G00.93,Régularisation de prélèvement à la source,S89.G00.93.008,Régularisation du montant de la part non imposable du revenu
+S89.G00.93,Régularisation de prélèvement à la source,S89.G00.93.009,Régularisation du montant soumis au PAS
+S89.G00.93,Régularisation de prélèvement à la source,S89.G00.93.010,Régularisation du montant de l’abattement sur la base fiscale (non déduit du montant net fiscal du revenu versé)
+S89.G00.94,Cotisation individu non salarié,S89.G00.94.001,Code de cotisation
+S89.G00.94,Cotisation individu non salarié,S89.G00.94.002,Montant de cotisation
+S90.G00.90,Total de l'envoi,S90.G00.90.001,Nombre total de rubriques
+S90.G00.90,Total de l'envoi,S90.G00.90.002,Nombre de DSN
