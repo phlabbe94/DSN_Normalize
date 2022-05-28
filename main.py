@@ -41,8 +41,12 @@ if __name__ == "__main__":
     relational.setRelational(staging.getStaging())
     print("Relational - Fin")
 
+    print("Entity - Début")
     entity = Entity(urlMongo, portMongo, base_dsa, base_dpa)
     entity.setEntity()
+    print("Entity - Fin")
 
+    print("Foreign Keys - Début")
     keys = ForeignTable(urlMongo, portMongo, base_dsa, base_dpa)
     keys.setKeysTable()
+    print("Foreign Keys - Fin")
